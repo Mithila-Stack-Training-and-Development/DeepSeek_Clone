@@ -1,4 +1,5 @@
 # 🔍 DeepSeek Clone
+Link: https://deep-seek-clone-liart.vercel.app/
 
 A modern full-stack app built with **Next.js**, **MongoDB**, **Clerk Auth**, and **DeepSeek API**.
 
